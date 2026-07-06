@@ -72,3 +72,6 @@ Clone the repository:
 ```bash
 git clone https://github.com/ritikkalyan1000/Google-ADK-Multi-Agent-Travel-Planner.git
 cd Google-ADK-Multi-Agent-Travel-Planner
+
+
+<img width="474" height="561" alt="image" src="https://github.com/user-attachments/assets/7b18ea9d-80cc-4462-99b9-f49124fdad23" />

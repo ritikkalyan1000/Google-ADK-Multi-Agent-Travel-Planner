@@ -65,6 +65,9 @@ The search agent uses the Google Search tool. It is used when the user asks abou
 9. The user can ask questions in a loop.
 10. The final response is printed in the terminal.
 
+    <img width="474" height="561" alt="image" src="https://github.com/user-attachments/assets/99f1a5a9-754d-413f-857f-fdfe6c6b37b2" />
+
+
 ## Setup
 
 Clone the repository:
@@ -73,5 +76,3 @@ Clone the repository:
 git clone https://github.com/ritikkalyan1000/Google-ADK-Multi-Agent-Travel-Planner.git
 cd Google-ADK-Multi-Agent-Travel-Planner
 
-
-<img width="474" height="561" alt="image" src="https://github.com/user-attachments/assets/7b18ea9d-80cc-4462-99b9-f49124fdad23" />

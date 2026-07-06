@@ -2,7 +2,7 @@
 Built a multi-agent planning assistant using Google ADK, LiteLLM, OpenAI GPT-4o Mini, Google Search, and a custom weather API tool to support real-time trip planning and weather-aware recommendations.
 
 
-@"
+
 # Google ADK Multi-Agent Travel Planner
 
 This is a small multi-agent AI assistant built using Google Agent Development Kit. The project uses a root planner agent, a weather agent, and a Google Search agent to help users with travel planning, weather-related questions, and current information.

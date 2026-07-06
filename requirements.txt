@@ -1,0 +1,6 @@
+﻿google-adk
+litellm
+python-dotenv
+requests
+google-genai
+streamlit
